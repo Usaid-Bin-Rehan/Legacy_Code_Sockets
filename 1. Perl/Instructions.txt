@@ -1,0 +1,11 @@
+To run the server in background mode issue the following command on Unix prompt:
+
+$perl sever.pl&
+
+Connect to the server and read message sent by the server:
+
+$perl client.pl
+
+Message Recieved will be:
+
+Smile from the server
